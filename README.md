@@ -6,8 +6,8 @@ Ce projet est un site web créé avec React, une bibliothèque JavaScript pour c
 
 Pour lancer le projet, vous devez avoir Node.js et npm installés sur votre machine. Ensuite, vous pouvez suivre ces étapes:
 
-- Cloner le dépôt GitHub du projet avec la commande `git clone https://github.com/tictacgame/react-dev.git`
-- Se déplacer dans le dossier du projet avec la commande `cd react-dev`
+- Cloner le dépôt GitHub du projet avec la commande `git clone https://github.com/tictacgame/portfolio.git`
+- Se déplacer dans le dossier du projet avec la commande `cd portfolio`
 - Installer les dépendances du projet avec la commande `npm install`
 - Lancer le serveur de développement avec la commande `npm start`
 - Ouvrir un navigateur web et accéder à l'adresse `http://localhost:3000` pour voir le site web
